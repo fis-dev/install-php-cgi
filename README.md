@@ -1,7 +1,7 @@
 各种系统环境下安装php-cgi的方法
 ------------
 
-## mac/linux一键安装php-cgi环境
+## \*nix一键安装php-cgi环境
 
 ```shell
 cd ~
